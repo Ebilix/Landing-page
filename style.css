@@ -5,12 +5,19 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
+    max-width: 500px;
 }
 
 .container-one {
     display: flex;
     flex-direction: column;
     margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
     padding-left: 50px;
     padding-right: 50px;
 }
