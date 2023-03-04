@@ -42,4 +42,7 @@ body {
 .header-info {
     display: flex;
     flex-direction: row;
+    padding-left: 50px;
+    padding-right: 50px;
+    gap: 20px;
 }
