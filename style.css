@@ -20,4 +20,5 @@ body {
     flex-direction: row;
     padding-left: 50px;
     padding-right: 50px;
+    justify-content: space-between;
 }
