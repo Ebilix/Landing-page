@@ -23,6 +23,12 @@ body {
     flex: 1;
 }
 
+.logo {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 .links ul {
     list-style: none;
     display: flex;
