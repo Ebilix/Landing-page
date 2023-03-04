@@ -56,7 +56,6 @@ body {
     width: 300px;
     height: 150px;
     justify-content: flex-start;
-    color: #eee;
 }
 
 .info-one {
@@ -67,6 +66,7 @@ body {
 .info-two {
     font-size: 14px;
     color: #e5e7eb;
+    padding-bottom: 4px;
 }
 
 .button {
