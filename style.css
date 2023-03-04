@@ -18,8 +18,8 @@ body {
 .header {
     display: flex;
     flex-direction: row;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
     justify-content: space-between;
     flex: 1;
 }
@@ -75,6 +75,8 @@ body {
     border: none;
     border-radius: 2px;
     color: #e5e7eb;
+    width: 60px;
+    height: 25px;
 }
 
 .banner {
