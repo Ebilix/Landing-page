@@ -70,7 +70,11 @@ body {
 }
 
 .button {
-    button: #3882f6;
+    background-color: #3882f6;
+    position: absolute;
+    border: none;
+    border-radius: 2px;
+    color: #e5e7eb;
 }
 
 .banner {
