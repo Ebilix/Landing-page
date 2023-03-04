@@ -64,6 +64,11 @@ body {
     color: #f9faf8;
 } 
 
+.info-two {
+    font-size: 14px;
+    color: #e5e7eb;
+}
+
 .banner {
     width: 300px;
     height: 150px;
