@@ -59,6 +59,11 @@ body {
     color: #eee;
 }
 
+.info-one {
+    font-size: 30px;
+    color: #f9faf8;
+} 
+
 .banner {
     width: 300px;
     height: 150px;
