@@ -38,3 +38,8 @@ body {
 .links ul li a {
     text-decoration: none;
 }
+
+.header-info {
+    display: flex;
+    flex-direction: row;
+}
