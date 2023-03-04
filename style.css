@@ -34,3 +34,7 @@ body {
     display: flex;
     gap: 16px;
 }
+
+.links ul li a {
+    text-decoration: none;
+}
