@@ -46,8 +46,8 @@ body {
 .header-info {
     display: flex;
     flex-direction: row;
-    padding: 50px;
-    gap: 20px;
+    padding: 70px;
+    gap: 25px;
 }
 
 .text-button {
