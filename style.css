@@ -1,1 +1,8 @@
 /* stylesheet */
+
+body {
+    width: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 0;
+}
