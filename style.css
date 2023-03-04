@@ -49,9 +49,11 @@ body {
 
 .text-button {
     flex-wrap: wrap;
+    flex: 1;
 }
 
 .banner {
     width: 300px;
     height: 150px;
+    background-color: gray;
 }
