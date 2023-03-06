@@ -24,12 +24,10 @@ body {
     flex: 1;
 }
 
-.logo {
+img {
     align-items: center;
     justify-content: center;
     display: flex;
-    color: #f9faf8;
-    font-size: 24px;
 }
 
 .links ul {
