@@ -24,10 +24,11 @@ body {
     flex: 1;
 }
 
-img {
+.Logo {
     align-items: center;
     justify-content: center;
     display: flex;
+    padding-top: 16px;
 }
 
 .links ul {
