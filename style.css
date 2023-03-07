@@ -157,4 +157,15 @@ h1 {
     justify-content: center;
     align-items: center;
     background-color: #3882f6;
+    height: 100px;
+    gap: 50px;
+}
+
+.instruction {
+    color: #eee;
+}
+
+.instruction p {
+    margin: 0;
+    font-size: 14px;
 }
