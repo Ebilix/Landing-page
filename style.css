@@ -158,7 +158,8 @@ h1 {
     align-items: center;
     background-color: #3882f6;
     height: 100px;
-    gap: 50px;
+    gap: 20px;
+    border-radius: 8px;
 }
 
 .instruction {
@@ -168,4 +169,14 @@ h1 {
 .instruction p {
     margin: 0;
     font-size: 12px;
+}
+
+#button {
+    border-style: solid;
+    border-color: #eee;
+    background-color: #3882f6;
+    border-radius: 4px;
+    width: 75px;
+    height: 25px;
+    color: #eee;
 }
