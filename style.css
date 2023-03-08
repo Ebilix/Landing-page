@@ -180,3 +180,13 @@ h1 {
     height: 25px;
     color: #eee;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #eee;
+    font-size: 12px;
+    height: 70px;
+}
